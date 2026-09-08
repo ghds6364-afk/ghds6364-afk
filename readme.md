@@ -14,7 +14,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) entusiasta de t
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Linguagens e Ferramentas](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github)
+![Linguagens e Ferramentas](https://skillicons.dev/icons?i=html,css,js,git,github)
 
 *(Dica: edite a lista de ícones na URL acima substituindo ou adicionando as tecnologias que você usa, como `python`, `java`, `docker`, `sql`, etc.)*
 
