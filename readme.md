@@ -21,6 +21,5 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) buscando aprend
 ### 📫 Como me encontrar
 
 - **E-mail:** [ghds6364@gmail.com.com](ghds6364@gmail.com)
-- **Portfolio:** [seu-portfolio.com](https://seu-portfolio.com)
-
+- **Linkdin:** [Meu Linkdin](https://www.linkedin.com/in/guilherme-henrique-654424390/)
 
